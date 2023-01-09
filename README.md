@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AferilG
+- 👋 Hi, I’m @Aferil
 - 👀 I’m interested in Anime and coding
 - 🌱 I’m currently learning Python, JS, HTML and CSS
 - 💞️ I’m looking to collaborate on ...
